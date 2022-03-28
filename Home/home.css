@@ -1,0 +1,8 @@
+.homebanner {
+  /* providing the features to the home page like its color, width, background color */
+  height: 100px;
+  color: white;
+  width: 100vh;
+  align-content: flex-end;
+  background-color: black;
+}
