@@ -62,41 +62,53 @@ This function is fired when the final values for any of the metrics have finishe
 
 ## Extensions used for smooth functioning of Code and running of reactjs
 
--- Auto Close Tag
-Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text
+# Auto Close Tag
 
--- Babel Javascript
-JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL.
+-- Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text
 
--- Code Runner
-Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim,
+# Babel Javascript
 
--- Bracket Pair Coloniser
-A customizable extension for colorizing matching brackets
+-- JavaScript syntax highlighting for ES201x, React JSX, Flow and GraphQL.
 
--- Auto Rename Tag
-Auto rename paired HTML/XML tag
+# Code Runner
 
--- VS Code ES7 React/Redux/React-Native/JS snippets
-Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax (forked from dsznajder)
+-- Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim,
 
--- ESLint
-Integrates ESLint JavaScript into VS Code.
+# Bracket Pair Coloniser
 
--- VS Code JavaScript (ES6) snippets
-Code snippets for JavaScript in ES6 syntax
+-- A customizable extension for colorizing matching brackets
 
--- Line Server
-Launch a development local Server with live reload feature for static & dynamic pages
+# Auto Rename Tag
 
--- Prettier Formatter for Visual Studio Code
-Code formatter using prettier
+-- Auto rename paired HTML/XML tag
 
--- vscode-icons
-Icons for Visual Studio Code
+# VS Code ES7 React/Redux/React-Native/JS snippets
 
--- yarn
-Yarn commands for VSCode
+-- Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax (forked from dsznajder)
+
+# ESLint
+
+-- Integrates ESLint JavaScript into VS Code.
+
+# VS Code JavaScript (ES6) snippets
+
+-- Code snippets for JavaScript in ES6 syntax
+
+# Line Server
+
+-- Launch a development local Server with live reload feature for static & dynamic pages
+
+# Prettier Formatter for Visual Studio Code
+
+-- Code formatter using prettier
+
+# vscode-icons
+
+-- Icons for Visual Studio Code
+
+# yarn
+
+-- Yarn commands for VSCode
 
 ### "axios.js"
 
